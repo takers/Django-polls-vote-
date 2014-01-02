@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+
+
+
+body {
+
+
+    background: orange url("images/background.gif");background-size:100px 200px
+no-repeat right bottom;
+}
